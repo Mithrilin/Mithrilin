@@ -8,7 +8,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-F29111?style=for-the-badge&logo=sql&logoColor=FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-31648C?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=FFFFFF)
-![DBeaver](https://img.shields.io/badge/-dbeaver-6E98BF?style=for-the-badge&logo=dbeaver&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/-Docker-27519C?style=for-the-badge&logo=docker&logoColor=FFFFFF)
 ![Maven](https://img.shields.io/badge/-Maven-D22127?style=for-the-badge&logo=apache&logoColor=FFFFFF)
 
