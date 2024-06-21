@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithrilin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 ### Трофеи:
-![](https://github-profile-trophy.vercel.app/?username=Mithrilin&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=Mithrilin&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  
 [![codewars](https://www.codewars.com/users/Mithrilin/badges/large)](https://www.codewars.com/users/Mithrilin)  
 ---
-![](https://visitcount.itsvg.in/api?id=Mithrilin&icon=5&color=0)
+![](https://visitcount.itsvg.in/api?id=Mithrilin&icon=0&color=2)
