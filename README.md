@@ -3,7 +3,7 @@
 когда мне попалась в руки книга Чарльза Петцольда "Код". Обучение своё начинал с онлайн курсов JavaRush. Затем, 
 с Июля 2023г по Май 2024г проходил обучение на платформе "Яндекс Практикум" по специальности "Java-разработчик". 
 На своём потоке стал "старшим студентом", помогал сокурсникам осваивать новый материал, разъяснял сложные моменты. 
-На групповом проекте был выбран тимлидом.
+На групповом проекте был выбран тимлидом. 
 
 
 ### Технологии:  
@@ -21,4 +21,4 @@
 [![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:romanukyan@gmail.com)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mithrilin&show_icons=true&count_private=true)](https://github.com/Mithrilin/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Mithrilin&theme=shadow_blue&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
