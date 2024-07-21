@@ -22,7 +22,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ---
 ### Свяжись со мной:
-[![Telegram](https://img.shields.io/badge/-Telegram-28A8EA?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/RoManukyan86)
+[![Telegram](https://img.shields.io/badge/-Telegram-28A8EA?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/Mithrilin)
 [![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:romanukyan@gmail.com)
 ---
 ### Статистика:
