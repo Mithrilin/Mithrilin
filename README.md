@@ -26,7 +26,7 @@
 [![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:romanukyan@gmail.com)
 ---
 ### Статистика:
-![](https://github-readme-stats.vercel.app/api?username=Mithrilin&theme=shadow_blue&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mithrilin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mithrilin&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithrilin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
