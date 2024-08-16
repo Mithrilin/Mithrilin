@@ -1,8 +1,9 @@
 ### Всем привет 👋 Меня зовут Роман!
-Я начинающий Java-разработчик. Программированием в целом и Java-разработкой в частности увлёкся около 2х лет назад, 
+Я Java-разработчик. Программированием в целом и Java-разработкой в частности увлёкся около 2х лет назад, 
 когда мне попалась в руки книга Чарльза Петцольда "Код". Обучение своё начинал с онлайн курсов JavaRush. Затем, 
 с Июля 2023г по Май 2024г проходил обучение на платформе "Яндекс Практикум" по специальности "Java-разработчик". 
-В настоящее время изучаю "Алгоритмы и структуры данных". Пишу несколько пет-проектов.
+С Июля 2024г по Август 2024г участвовал в Хакатоне+, где в составе команды работал над мобильной версией сайта 
+https://kardoaward.com/. В настоящее время пишу несколько пет-проектов, занимаюсь развитием своих знаний и навыков.
 
 ---
 ### Технологии:  
@@ -26,12 +27,12 @@
 [![email](https://img.shields.io/badge/Email-yellow?style=for-the-badge&logo=maildotru&logoColor=FFFFFF)](mailto:romanukyan@gmail.com)
 ---
 ### Статистика:
-![](https://github-readme-stats.vercel.app/api?username=Mithrilin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mithrilin&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithrilin&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Mithrilin\&theme=shadow_blue\&hide_border=false\&count_private=false\&include_all_commits=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mithrilin\&theme=shadow_blue\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithrilin\&theme=shadow_blue\&hide_border=false\&include_all_commits=true\&count_private=false\&layout=compact)
 ---
 ### Трофеи:
 ![](https://github-profile-trophy.vercel.app/?username=Mithrilin&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)  
-[![codewars](https://www.codewars.com/users/Mithrilin/badges/large)](https://www.codewars.com/users/Mithrilin)  
+[![codewars](https://www.codewars.com/users/Mithrilin/badges/micro)](https://www.codewars.com/users/Mithrilin)  
 ---
 ![](https://visitcount.itsvg.in/api?id=Mithrilin&icon=0&color=2)
